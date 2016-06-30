@@ -9,9 +9,6 @@
 #SYNOPSIS
        free [options]
 
-#DESCRIPTION
-       free  displays the total amount of free and used physical and swap memory in the system, as well as the buffers used by the kernel.
-
 #OPTIONS
        -b, --bytes
               Display the amount of memory in bytes.
